@@ -1,1 +1,1 @@
-# jogosvariados
+# jogosvariados 1.0
