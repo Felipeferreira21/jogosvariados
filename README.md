@@ -1,1 +1,1 @@
-# jogosvariados 1.0
+# jogos/python
